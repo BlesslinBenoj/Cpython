@@ -13,5 +13,5 @@ print(5**6)
 print(2+5*6)
 
 print((2+5)-10)
-
+print("poda
 
